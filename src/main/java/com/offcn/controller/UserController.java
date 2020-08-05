@@ -27,6 +27,11 @@ public class UserController {
     public void fun1(){
 
         System.out.println("菜鸟一号");
+        System.out.println("hello world");
+
+        if(true){
+            System.out.println("菜鸟二号");
+        }
     }
     /**
      * 查询用户列表
