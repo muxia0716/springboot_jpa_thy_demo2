@@ -26,7 +26,7 @@ public class UserController {
     //add by dh
     public void fun1(){
 
-        System.out.println("hello world");
+        System.out.println("菜鸟一号");
     }
     /**
      * 查询用户列表
