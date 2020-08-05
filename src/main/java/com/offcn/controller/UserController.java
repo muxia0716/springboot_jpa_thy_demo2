@@ -23,6 +23,10 @@ public class UserController {
     private UserService userService;
 
 
+    //add by dh
+    public void fun1(){
+
+    }
     /**
      * 查询用户列表
      * @return
