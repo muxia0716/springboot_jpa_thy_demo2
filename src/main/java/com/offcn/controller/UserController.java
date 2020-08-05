@@ -25,6 +25,7 @@ public class UserController {
 
     //add by dh
     public void fun1(){
+
         System.out.println("hello world");
     }
     /**
